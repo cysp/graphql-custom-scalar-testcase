@@ -3,8 +3,10 @@
   "version": "0.0.1",
   "description": "",
   "main": "src/index.js",
-  "scripts": {
+  "dependencies": {
+    "graphql": "^0.13.2"
   },
+  "scripts": {},
   "author": "",
   "license": "MPL-2.0"
 }
